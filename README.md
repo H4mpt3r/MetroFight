@@ -1,0 +1,1 @@
+Entrar en la seccion de Releases en la derecha al medio, ahi estara MetroFight para ver en godot y en una carpeta seprada estan los ejecutables exe, console y pck, el archivo exe depende del archivo pck parar que este sea ejecutado.
